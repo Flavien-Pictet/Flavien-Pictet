@@ -1,5 +1,5 @@
 
-- 👀 Enthralled by blockchain related projects, ML/DL & tech in general.
+- 👀 Enthralled by ZK proof, blockchain, ML/DL & tech in general.
 - 📫 How to reach me: flavien@pictet.net 
 
 
