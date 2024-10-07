@@ -1,5 +1,5 @@
 
-- 👀 Enthralled by tech in general.
+- 👀 Building consumer apps 
 - 📫 How to reach me: flavien@pictet.net 
 
 
